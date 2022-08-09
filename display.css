@@ -1,0 +1,14 @@
+article{
+    background-color: rgb(151, 94, 19);
+    width: 30%;
+    border-image-width: 10px;
+}
+#imagid{
+    visibility: hidden;
+}
+#imagid2{
+    display: none;
+}
+body{
+    background-image: linear-gradient(to left,red,orange);
+}
